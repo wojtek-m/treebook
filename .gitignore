@@ -16,5 +16,9 @@
 /tmp
 
 
-# Ignor all development files folders.
+# Ignore all development files folders.
 /_bootstrap
+
+# Ignore Sublime project files
+*.sublime-project
+*.sublime-workspace
